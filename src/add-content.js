@@ -1,3 +1,3 @@
 export default function() {
-    document && document.write('I\'m use npm script!');
+    document.write('区分源码目录和资源输出目录');
 }
